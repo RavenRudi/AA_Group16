@@ -1,2 +1,4 @@
 data/boston_2015.csv
 .ipynb_checkpoints
+data/prepared
+data/prepared/rides_data_prepared.csv
