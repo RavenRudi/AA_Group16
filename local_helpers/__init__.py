@@ -1,5 +1,6 @@
 import pandas as pd
 import numpy as np
+import math
 
 # Global constants that are used in multiple notebooks
 days = ['Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday', 'Sunday']
@@ -12,6 +13,14 @@ morning_hours = [*range(6, 12)]
 afternoon_hours = [*range(12, 18)]
 evening = [*range(18, 23)]
 night = [23] + [*range(0, 6)]
+
+temperature_points = ["very hot (29+)", "hot (24-28)", "good (16-23)", "cold (8-15)", "very cold(7-)"]
+
+very_hot = [*range(29, 45)]
+hot = [*range(24, 29)]
+good = [*range(16, 24)]
+cold = [*range(8, 16)]
+very_cold = [*range(-30, 8)]
 
 
 # Functions
@@ -46,3 +55,23 @@ def get_point_of_day(hour):
         return "3_evening"
     elif hour in night:
         return "4_night"
+
+
+# This function divides the temperatures into 5 parts and returns level of temperature
+def get_level_of_temperature(temperature):
+    if type(temperature) == float and not math.isnan(temperature):
+        temperature = round(temperature)
+        if temperature in very_hot:
+            return "1_very_hot"
+        elif temperature in hot:
+            return "2_hot"
+        elif temperature in good:
+            return "3_good"
+        elif temperature in cold:
+            return "4_cold"
+        elif temperature in very_cold:
+            return "5_very_cold"
+
+
+def get_middle_of_two_numbers(number_a, number_b):
+    return (number_a + number_b) / 2
