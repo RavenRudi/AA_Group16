@@ -1,4 +1,6 @@
 data/boston_2015.csv
 .ipynb_checkpoints
+data/prepared/rides_data_split_into_hours.csv
 data/prepared
 data/prepared/rides_data_prepared.csv
+data/prepared/rides_data_prepared_waether.csv
