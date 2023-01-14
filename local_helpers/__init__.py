@@ -27,7 +27,7 @@ very_cold = [*range(-30, 8)]
 
 # This functions loads the prepared weather data and determines the correct datatypes for each columns
 def load_prepared_data():
-    df_boston = pd.read_csv('./data/prepared/rides_data_prepared_waether.csv',
+    df_boston = pd.read_csv('./data/prepared/rides_data_prepared_weather.csv',
                             dtype={
                                 'start_station_id': np.int64,
                                 'end_station_id': 'string',
