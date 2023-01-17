@@ -57,6 +57,20 @@ def get_point_of_day(hour):
         return "4_night"
 
 
+def get_pnt_day_with_pnt_week(dt):
+    time_of_week = "week" if dt.weekday() < 5 else "weekend"
+    hour = dt.hour
+
+    if hour in morning_hours:
+        return "morning_" + time_of_week
+    elif hour in afternoon_hours:
+        return "afternoon_" + time_of_week
+    elif hour in evening:
+        return "evening_" + time_of_week
+    elif hour in night:
+        return "night_" + time_of_week
+
+
 # This function divides the temperatures into 5 parts and returns level of temperature
 def get_level_of_temperature(temperature):
     if type(temperature) == float and not math.isnan(temperature):
