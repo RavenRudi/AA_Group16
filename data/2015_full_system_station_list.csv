@@ -1,0 +1,160 @@
+﻿STATION_ID;MUNICIPALITY;STATION_NAME;LATITUDE;LONGITUDE
+A32000;Boston;Fan Pier;42,35328743;-71,04438901
+A32001;Boston;Union Square - Brighton Ave. at Cambridge St.;42,353334;-71,137313
+A32002;Boston;Agganis Arena - 925 Comm Ave.;42,351246;-71,115639
+A32003;Boston;B.U. Central - 725 Comm. Ave.;42,350406;-71,108279
+A32004;Boston;Longwood Ave / Binney St;42,338629;-71,1065
+A32005;Boston;Harvard Real Estate - Brighton Mills - 370 Western Ave;42,361667;-71,13802
+A32006;Boston;Harvard University Housing - 111 Western Ave. at Soldiers Field Park ;42,365064;-71,119233
+A32008;Boston;Buswell St. at Park Dr.;42,347241;-71,105301
+A32009;Boston;Tremont St / W Newton St;42,341332;-71,076847
+A32010;Boston;South Station - 700 Atlantic Ave.;42,352175;-71,055547
+A32011;Boston;Innovation Lab - 125 Western Ave. at Batten Way;42,363732;-71,124565
+A32012;Boston;Packard's Corner - Comm. Ave. at Brighton Ave.;42,352261;-71,123831
+A32013;Boston;John F Fitzgerald - Surface Road at India Street;42,358155;-71,052163
+A32017;Boston;Allston Green District - Commonwealth Ave & Griggs St;42,348607;-71,13401
+A32019;Boston;Harvard University Transportation Services - 175 North Harvard St;42,363796;-71,129164
+A32022;Boston;Main Street at Eden Street Park;42,378965;-71,068607
+A32023;Boston;Bunker Hill Community College;42,37408991;-71,06905997
+A32024;Boston;Mayor Martin J Walsh - 28 State St;42,35895348;-71,05738163
+B32000;Boston;Newbury St / Hereford St;42,348717;-71,085954
+B32002;Boston;Ruggles Station / Columbus Ave.;42,335911;-71,088496
+B32003;Boston;HMS / HSPH - Ave. Louis Pasteur at Longwood Ave.;42,337171;-71,102797
+B32004;Boston;Aquarium Station - 200 Atlantic Ave.;42,35977;-71,051601
+B32005;Boston;Christian Science Plaza;42,343864;-71,085918
+B32006;Boston;Colleges of the Fenway;42,340021;-71,100812
+B32007;Boston;Seaport Square - Seaport Blvd. at Boston Wharf;42,351205;-71,043983
+B32010;Boston;Kenmore Sq / Comm Ave;42,348706;-71,097009
+B32011;Boston;Yawkey Way at Boylston St.;42,344706;-71,097515
+B32012;Boston;Northeastern U / North Parking Lot;42,341814;-71,090179
+B32013;Boston;Brigham Cir / Huntington Ave;42,334073;-71,105221
+B32014;Boston;Seaport Hotel;42,348833;-71,041747
+B32015;Boston;Landmark Centre;42,343912;-71,102221
+B32016;Boston;Beacon St / Mass Ave;42,350851;-71,089886
+B32017;Boston;Dudley Square;42,328654;-71,084198
+B32018;Boston;Boylston / Mass Ave;42,347265;-71,088088
+B32020;Boston;BIDMC - Brookline at Burlington St;42,345733;-71,100694
+B32021;Boston;Wentworth Institute of Technology;42,337596;-71,096391
+C32000;Boston;Tremont St. at Berkeley St.;42,345392;-71,069616
+C32001;Boston;Roxbury Crossing Station;42,331184;-71,095171
+C32002;Boston;Boston Medical Center -  East Concord at Harrison Ave;42,336437;-71,073089
+C32003;Boston;Back Bay / South End Station;42,347433;-71,076163
+C32004;Boston;Columbus Ave. at Mass. Ave.;42,340799;-71,081572
+C32005;Boston;Washington St. at Lenox St.;42,3348756;-71,0790969
+C32006;Boston;Washington St. at Rutland St.;42,338623;-71,074182
+C32007;Boston;Prudential Center / Belvidere;42,345959;-71,082578
+C32008;Boston;Boylston at Fairfield;42,348762;-71,082383
+C32009;Boston;Dorchester Ave. at Gillette Park;42,344023;-71,057054
+C32010;Boston;Congress / Sleeper;42,3511;-71,0496
+C32012;Boston;Andrew Station - Dorchester Ave at Humboldt Pl;42,330716;-71,057044
+C32013;Boston;JFK / UMASS at MBTA Station;42,320494;-71,051122
+C32014;Boston;UMass Boston Integrated Sciences Complex;42,314507;-71,041269
+C32015;Boston;Mt Pleasant Ave / Dudley Town Common;42,325333;-71,075354
+C32016;Boston;West Broadway at Dorchester St;42,335693;-71,045859
+C32017;Boston;South Boston Library - 646 East Broadway;42,335741;-71,03877
+C32018;Boston;E. Cottage St at Columbia Rd;42,320561;-71,06198
+C32019;Boston;Upham's Corner - Ramsey St at Dudley St;42,317225;-71,065421
+C32020;Boston;ID Building East;42,344827;-71,028664
+C32021;Boston;ID Building West;42,344796;-71,031614
+C32022;Boston;Newmarket Square;42,326599;-71,066498
+C32024;Boston;State Street at Channel Center;42,344137;-71,052608
+C32025;Boston;Ink Block;42,345901;-71,063187
+C32027;Boston;Franklin Park - Seaver Street at Humbolt Ave;42,309796;-71,092225
+C32028;Boston;Lawn on D;42,344792;-71,044024
+C32029;Boston;West Broadway at D Street;42,3391085;-71,0514432
+C32030;Boston;Franklin Park Zoo;42,303469;-71,085347
+C32031;Boston;Ryan Playground - Dorchester Avenue Station;42,317642;-71,056664
+D32000;Boston;Cambridge St. at Joy St.;42,361174;-71,065142
+D32001;Boston;New Balance - 20 Guest St.;42,357402;-71,147782
+D32002;Boston;Washington St. at Waltham St.;42,341522;-71,068922
+D32003;Boston;TD Garden - Causeway at Portal Park #2;42,366222;-71,059914
+D32004;Boston;Franklin St. / Arch St.;42,355402;-71,058087
+D32005;Boston;Boston Public Library - 700 Boylston St.;42,349673;-71,077303
+D32006;Boston;Lewis Wharf - Atlantic Ave.;42,363871;-71,050877
+D32007;Boston;Boylston St. at Arlington St.;42,352033;-71,070627
+D32008;Boston;Rowes Wharf - Atlantic Ave;42,357143;-71,050699
+D32009;Boston;Faneuil Hall - Union St. at North St.;42,360613;-71,057452
+D32010;Boston;Cross St. at Hanover St.;42,362811;-71,056067
+D32011;Boston;Stuart St. at Charles St.;42,351146;-71,066289
+D32012;Boston;Post Office Square;42,356755;-71,055407
+D32013;Boston;Boylston St / Berkeley St;42,350989;-71,073644
+D32014;Boston;Tremont St / West St;42,354979;-71,063348
+D32015;Boston;Chinatown Gate Plaza - Surface Rd. at Beach St.;42,351356;-71,059367
+D32016;Boston;Charles Circle - Charles St. at Cambridge St.;42,360835;-71,0708399
+D32017;Boston;The Esplanade - Beacon St. at Arlington St.;42,355596;-71,07278
+D32018;Boston;Boston Convention & Exhibition Center;42,3475;-71,0441
+D32019;Boston;Boylston St / Washington St;42,352409;-71,062679
+D32020;Boston;Charlestown - Main St at Austin St;42,375603;-71,064608
+D32021;Boston;Charlestown - Warren St at Chelsea St;42,371848;-71,060292
+D32022;Boston;TD Garden - Causeway at Portal Park #1;42,365942;-71,060515
+D32023;Boston;Spaulding Rehabilitation Hospital - Charlestown Navy Yard;42,378338;-71,048927
+D32024;Boston;Charles St at Beacon St;42,356052;-71,069849
+D32026;Boston;Hayes Square at Vine St.;42,377022;-71,056605
+D32027;Boston;New Balance Store - Boylston at Dartmouth;42,350413;-71,07655
+D32028;Boston;Brighton Center;42,34894857;-71,15027189
+D32029;Boston;Washington St at Brock St;42,34900494;-71,16041064
+E32001;Boston;JP Monument - South St at Centre St;42,309054;-71,11543
+E32002;Boston;JP Center - Centre Street at Myrtle Street;42,313156;-71,11414
+E32003;Boston;Hyde Square at Barbara St;42,320998;-71,110833
+E32004;Boston;Egleston Square at Columbus Ave;42,315692;-71,098634
+E32005;Boston;Green St T;42,310579;-71,107341
+E32006;Boston;Jackson Square T at Centre St;42,322701;-71,099533
+E32007;Boston;Heath St at South Huntington;42,3279727;-71,11089706
+K32001;Brookline;Coolidge Corner - Beacon St @ Centre St;42,341598;-71,123338
+K32002;Brookline;Washington Square at Washington St. / Beacon St.;42,339335;-71,13493
+K32003;Brookline;Brookline Village - Pearl Street @ MBTA;42,332799;-71,116205
+K32004;Brookline;JFK Crossing at Harvard St. / Thorndike St.;42,346563;-71,128374
+M32001;Cambridge;Lechmere Station at Cambridge St / First St;42,370677;-71,076529
+M32002;Cambridge;One Kendall Square at Hampshire St / Portland St;42,366277;-71,09169
+M32003;Cambridge;One Broadway / Kendall Sq at Main St / 3rd St;42,362613;-71,084105
+M32005;Cambridge;MIT Stata Center at Vassar St / Main St;42,3619622;-71,0920526
+M32006;Cambridge;MIT at Mass Ave / Amherst St;42,3581;-71,093198
+M32007;Cambridge;Cambridge St - at Columbia St / Webster Ave;42,372969;-71,094445
+M32009;Cambridge;Lafayette Square at Mass Ave / Main St / Columbia St;42,36346469;-71,10057324
+M32010;Cambridge;Inman Square at Vellucci Plaza / Hampshire St;42,374035;-71,101427
+M32011;Cambridge;Central Square at Mass Ave / Essex St;42,36507;-71,1031
+M32012;Cambridge;Central Sq Post Office / Cambridge City Hall at Mass Ave / Pleasant St;42,366426;-71,105495
+M32013;Cambridge;Cambridge Main Library at Broadway / Trowbridge St;42,373379;-71,111075
+M32014;Cambridge;Harvard University Housing - 115 Putnam Ave at Peabody Terrace;42,366621;-71,114214
+M32016;Cambridge;Harvard Kennedy School at Bennett St / Eliot St;42,371196;-71,121473
+M32017;Cambridge;Harvard Square at Brattle St / Eliot St;42,373231;-71,120886
+M32018;Cambridge;Harvard Square at Mass Ave/ Dunster;42,373268;-71,118579
+M32019;Cambridge;CambridgeSide Galleria - CambridgeSide PL at Land Blvd;42,366981;-71,076472
+M32020;Cambridge;Harvard Law School at Mass Ave / Jarvis St;42,379011;-71,119945
+M32021;Cambridge;Harvard University Gund Hall at Quincy St / Kirkland S;42,376369;-71,114025
+M32022;Cambridge;Lower Cambridgeport at Magazine St/Riverside Rd;42,356954;-71,113687
+M32023;Cambridge;Harvard University / SEAS Cruft-Pierce Halls at 29 Oxford St;42,377945;-71,116865
+M32024;Cambridge;Harvard University Radcliffe Quadrangle at Shepard St / Garden St;42,380287;-71,125107
+M32025;Cambridge;Linear Park - Mass. Ave. at Cameron Ave. ;42,397828;-71,130516
+M32026;Cambridge;359 Broadway - Broadway at Fayette Street;42,370803;-71,104412
+M32027;Cambridge;Binney St / Sixth St;42,366095;-71,086388
+M32029;Cambridge;Porter Square Station;42,387995;-71,119084
+M32030;Cambridge;Dana Park;42,361589;-71,107437
+M32031;Cambridge;Danehy Park;42,388966;-71,132788
+M32032;Cambridge;Kendall Street;42,36356016;-71,08216792
+M32033;Cambridge;Alewife Station at Russell Field;42,396105;-71,139459
+M32034;Cambridge;EF - North Point Park;42,369885;-71,069957
+M32036;Cambridge;Rindge Avenue - O'Neill Library;42,392766;-71,129042
+M32037;Cambridge;Ames St at Main St;42,3625;-71,08822
+M32038;Cambridge;Harvard University River Houses at DeWolfe St / Cowperthwaite St;42,36919032;-71,11714125
+M32039;Cambridge;Lesley University;42,38674802;-71,11901879
+M32040;Cambridge;University Park;42,36264779;-71,10006094
+M32041;Cambridge;MIT Pacific St at Purrington St;42,3595732;-71,10129476
+M32042;Cambridge;MIT Vassar St;42,35560121;-71,10394478
+M32043;Cambridge;Mt Auburn;42,37478629;-71,13320231
+S32001;Somerville;Somerville City Hall;42,386844;-71,09812
+S32002;Somerville;Union Square - Somerville;42,379637;-71,095319
+S32003;Somerville;Beacon St at Washington / Kirkland;42,37842;-71,105668
+S32004;Somerville;Conway Park - Somerville Avenue;42,383405;-71,107593
+S32005;Somerville;Wilson Square;42,385582;-71,113341
+S32006;Somerville;Davis Square;42,396969;-71,123024
+S32008;Somerville;Powder House Circle - Nathan Tufts Park;42,400877;-71,116772
+S32009;Somerville;Packard Ave / Powderhouse Blvd;42,40449;-71,123413
+S32010;Somerville;Somerville Hospital at Highland Ave / Crocker St;42,39082;-71,10942
+S32011;Somerville;Teele Square at 239 Holland St;42,402763;-71,126908
+S32012;Somerville;Summer St at Cutter St;42,394002;-71,120406
+S32013;Somerville;Magoun Square at Trum Field;42,398365;-71,107818
+B99997;Boston;Curtis Hall at South Street;42,30926;-71,11519   
+B99998;Boston;Edwards Playground - Main Street & Eden Street;42,37903;-71,06863 
+B99999;Boston;Mass Ave at Newmarket Square;42,32679;-71,06684   
+M99999;Cambridge;18 Dorrance Warehouse; 42.38754;-71,07587 
