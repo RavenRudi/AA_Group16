@@ -5,3 +5,4 @@ data/prepared
 data/prepared/rides_data_prepared.csv
 data/prepared/rides_data_prepared_weather.csv
 local_helpers/__pycache__/*
+figures
